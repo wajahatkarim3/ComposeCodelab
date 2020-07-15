@@ -1,0 +1,2 @@
+rootProject.name = "ComposeCodelab"
+include ':app'
